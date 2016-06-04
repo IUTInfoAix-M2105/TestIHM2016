@@ -33,6 +33,8 @@ Le résultat attendu devra ressembler à la fenêtre suivante :
 
 ![IHM](screenshoot.png)
 
+![IHM](screenshoot2.png)
+
 ## La classe `MorpionJeu`
 A l’intérieur du programme les deux joueurs sont représentés par les entiers `0` et `1`. 
 Cependant, sur l’interface graphique, le joueur `0` sera nommé « Joueur 1 » et le joueur `1` sera nommé « Joueur 2 ».
