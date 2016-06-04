@@ -31,9 +31,8 @@ car trop algorithmiques n'auront pas à être implémentées. Vous pourrez retro
 
 Le résultat attendu devra ressembler à la fenêtre suivante :
 
-![IHM](screenshoot.png)
-
-![IHM](screenshoot2.png)
+<img src="screenshoot.png" width="40%"/>
+<img src="screenshoot2.png" width="40%"/>
 
 ## La classe `MorpionJeu`
 A l’intérieur du programme les deux joueurs sont représentés par les entiers `0` et `1`. 
