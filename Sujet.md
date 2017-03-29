@@ -1,4 +1,4 @@
-#Test d'IHM et langage Java
+# Test d'IHM et langage Java
 
 **Test du samedi 4 juin 2016 – Durée 2 heures – Documents autorisés**
 
